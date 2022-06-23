@@ -13,4 +13,10 @@
 
 - Datasets taken from HR Analytics Case Study 
 
-	https://www.kaggle.com/datasets/vjchoudhary7/hr-analytics-case-study
+	
+# Project Proposal
+
+## Data Sources
+### [Kaggle HR Analytics Dataset](https://www.kaggle.com/datasets/vjchoudhary7/hr-analytics-case-study)
+
+#### The original data sources consisted of 3 CSV files containing HR employee data regarding 
