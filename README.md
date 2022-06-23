@@ -17,6 +17,6 @@
 # Project Proposal
 
 ## Data Sources
-### [Kaggle HR Analytics Dataset][Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/hr-analytics-case-study?select=general_data.csv)
+### [Kaggle HR Analytics Dataset](https://www.kaggle.com/datasets/vjchoudhary7/hr-analytics-case-study?select=general_data.csv)
 
 #### The original data sources consisted of 3 CSV files containing HR employee data regarding 
