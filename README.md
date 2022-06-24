@@ -10,9 +10,6 @@
 
 - Are employees with relatively low precent salary hikes more likely to be dissatisfied at work?
 
-
-- Datasets taken from HR Analytics Case Study 
-
 	
 ## Project Proposal
 
