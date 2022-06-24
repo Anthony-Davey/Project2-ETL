@@ -31,7 +31,7 @@ We decided that a relational database would be more beneficial given that we alr
 ## Project Report
 
 ### Extract
-The original data sources consisted of 3 CSV files involves general HR employee data (general , employee survey data, and manager survey data. The general employee data consisted of 13 integer, 8 character, and 2 float columns. The employee survey data and manager survey data consisted of 3 and 2 float columns, respectively. 
+The original data sources consisted of 3 CSV files involving general HR employee data, employee survey data, and manager survey data. The general employee data consisted of 13 integer, 8 character, and 2 float columns. The "Education" and "JobLevel" columns were ordinal data with numeric representation, which can be decoded in the [Data Dictionary](https://www.kaggle.com/datasets/vjchoudhary7/hr-analytics-case-study?select=data_dictionary.xlsx). The employee survey data and manager survey data consisted of 3 and 2 float columns, respectively. 
 
 ### Transform
 
