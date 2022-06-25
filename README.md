@@ -35,6 +35,7 @@ The original data sources consisted of 3 CSV files involving general HR employee
 
 ### Transform
 All 3 datasets were converted into pandas dataframes for transformation. Since there was a shared key among the 3 datasets we set the index of all dataframes to "EmployeeID". We then joined both the employee and manager survey data. The general employee dataframe was also joined but only joining on variables of interest, which included "NumCompaniesWorked", "Attrition", and "PercentSalaryHike". The new combined dataframe for the company was then determined to have missing data. We noticed this by printing a count of all variables and finding different totals among them. Using the "dropna()" function we were able to eliminate all rows with missing data. To create a more efficient dataset for loading in PostgreSQL we decided to convert all of our data types to integers. By printing the datatypes we determined that even though our variables only consisted of whole numbers, the majority were classified as floats. We used the ".astype()" function to convert them all to int32.
+
 *All transformations were done with the python pandas software library*
 
 ### Load
