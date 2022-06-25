@@ -39,3 +39,4 @@ All 3 datasets were converted into pandas dataframes for transformation. Since t
 *All transformations were done with the python pandas software library*
 
 ### Load
+We loaded our newly joined and transformed dataframe containing all relevant variables needed to answer our business questions to PostgreSQL. Our methodology for loading involved leveraging SQLAlchemy, which is an open-source SQL toolkit and object-relational mapper for python. The three variables needed to create our connection path (username, password, and connection) were concealed for security-purposes using the .gitignore file in our Github repository. Using the ".to_sql" function we were able to create our table in PostgreSQL which we named "company_data". We included parameters "if_exists="fail" and "index=True" so that whenever the function is ran it will return a ValueError if the table already exists, and that we would like to write the dataframe index as a column.
