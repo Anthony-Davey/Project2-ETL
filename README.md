@@ -6,9 +6,9 @@
 
 - How does the number of companies worked impact attrition?
 
-- Are employees with relatively low precent salary hikes more likely to leave the organization?
+- Are employees with relatively low percent salary hikes more likely to leave the organization?
 
-- Are employees with relatively low precent salary hikes more likely to be dissatisfied at work?
+- Are employees with relatively low percent salary hikes more likely to be dissatisfied at work?
 
 	
 ## Project Proposal
