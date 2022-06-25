@@ -27,8 +27,8 @@ We decided that a relational database would be more beneficial given that we alr
 
 - Employees who've worked for 4 or less companies throughout their professional careers were found to have higher job satisfaction when compared to those who've worked for more than 4 companies.
 - On average, employees that quit tend to have worked for more companies than those that have not quit their jobs. 
-- Interestingly, employees who quit had a higher average salary than employees who decided to stay with the organization. We could speculate that those quiting with higher than average salary hikes were very sought-after candidates and were finding better total compensation packages elsewhere. Having market data would be valuable in this case to compare salary data across the industry to see if our organization is in fact not providing competitive compensation.
-- While employees with higher percent salary hikes were more likely to quit, on average they were not doing so based on a lack of job satisfaction. Our findings indicate a positive trend with higher average percent salary hike leading to greater job satisfaction. 
+- Interestingly, employees who quit had a higher average salary than employees who decided to stay with the organization.
+- While employees with higher percent salary hikes were more likely to quit, they were not doing so based on a lack of job satisfaction.
 
 ## Project Report
 
